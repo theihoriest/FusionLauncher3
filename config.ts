@@ -11,8 +11,8 @@ export const window = {
 };
 
 export const api = {
-    grpc: 'http://127.0.0.1:1371',
-    web: 'http://127.0.0.1:1370',
+    grpc: 'https://files.fusioncraft.ru',
+    web: 'https://files.fusioncraft.ru',
     publicKey,
 };
 
