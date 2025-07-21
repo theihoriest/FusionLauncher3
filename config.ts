@@ -11,8 +11,8 @@ export const window = {
 };
 
 export const api = {
-    ws: 'ws://95.165.108.42:25623/ws',
-    web: 'http://95.165.108.42:25623',
+    ws: 'wss://files.fusioncraft.ru/wss',
+    web: 'https://files.fusioncraft.ru',
     publicKey,
 };
 
